@@ -1,0 +1,166 @@
+.header {
+
+    background-image: url(images/donation13.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 1000px;
+
+}
+
+.centered-text {
+    color: white;
+
+    font-size: 55px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.h3tag {
+    color: white;
+    position: absolute;
+    bottom: 150px;
+    left: 25%;
+}
+
+.link {
+    position: absolute;
+    bottom: 80px;
+    left: 40%;
+}
+
+.btn {
+    font-size: 22px;
+    background-color: #ff7c02f1;
+    width: 152px;
+    height: 44px;
+    border-radius: 8px;
+}
+
+.donate-today {
+    font-size: 44px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+#amount {
+    font-size: 60px;
+    display: flex;
+    padding: 230px;
+}
+
+.first {
+    font-weight: 600;
+    padding-right: 40px;
+}
+
+.second {
+    color: orange;
+    border: 2px solid orangered;
+}
+
+.input {
+    width: 300px;
+    height: 50px;
+}
+
+.button2 {
+    margin-left: 50%;
+}
+
+.donate-class {
+    margin-top: 70px;
+}
+
+.donate-plan {
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.image {
+    height: auto;
+    width: auto;
+}
+
+.solve {
+    height: 250px;
+}
+
+.blogs {
+    display: flex;
+    margin-top: 0px;
+
+}
+
+.blogs>div {
+    background-color: #E6E6E6;
+    border-radius: 10px;
+    margin: 70px;
+    padding: 20px;
+    font-size: 22px;
+}
+
+.blogs img {
+    width: 100%;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.font-size {
+    font-size: 54px;
+}
+
+.paragraph {
+    font-size: 25px;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 15px 40px;
+    font-weight: 700;
+    border-radius: 5%;
+}
+
+.subscribe {
+
+    padding: 20px 40px;
+    margin-left: 505px;
+    margin-right: 500px;
+    border: 80px solid orange;
+}
+
+.label {
+    background-color: blueviolet;
+    font-size: 15px;
+}
+
+#humble {
+    color: orange;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+
+.footer {
+    height: 222px;
+    width: 100pc;
+    background-color: rgb(41, 41, 53);
+}
